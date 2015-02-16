@@ -1,1 +1,1 @@
-# experiment-webgl-webvr
+# experiment-webgl
