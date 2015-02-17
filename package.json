@@ -1,17 +1,17 @@
 {
-  "name": "experiment-webgl",
+  "name": "experiment-webgl-pex",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/jmsaulnier/experiment-webgl"
+    "url": "http://github.com/jmsaulnier/experiment-webgl-pex"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jmsaulnier/experiment-webgl/issues"
+    "url": "https://github.com/jmsaulnier/experiment-webgl-pex/issues"
   },
   "browser": {
     "TweenMax": "./node_modules/gsap/src/uncompressed/TweenMax.js",
