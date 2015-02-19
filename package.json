@@ -14,8 +14,8 @@
     "url": "https://github.com/jmsaulnier/experiment-webgl-pex/issues"
   },
   "browser": {
-    "TweenMax": "./node_modules/gsap/src/uncompressed/TweenMax.js",
-    "TimelineMax": "./node_modules/gsap/src/uncompressed/TimelineMax.js"
+    "TweenLite": "./node_modules/gsap/src/uncompressed/TweenLite.js",
+    "TimelineLite": "./node_modules/gsap/src/uncompressed/TimelineLite.js"
   },
   "browserify": {
     "transform": [
@@ -59,6 +59,7 @@
     "insert-css": "^0.2.0",
     "jsdoc": "^3.3.0-beta1",
     "jshint-stylish": "^1.0.0",
+    "merge": "^1.2.0",
     "opn": "^1.0.1",
     "prova": "^2.1.1",
     "psi": "^1.0.5",
@@ -85,6 +86,7 @@
     "pex-geom": "^0.11.1",
     "pex-glu": "^0.2.3",
     "pex-gui": "^0.4.0",
+    "pex-helpers": "^0.1.0",
     "pex-materials": "^0.1.1",
     "pex-random": "^0.2.1",
     "pex-sys": "^0.2.1",
